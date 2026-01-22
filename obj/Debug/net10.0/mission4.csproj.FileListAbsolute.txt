@@ -1,0 +1,14 @@
+/Users/joshuagoates/RiderProjects/mission4/bin/Debug/net10.0/mission4
+/Users/joshuagoates/RiderProjects/mission4/bin/Debug/net10.0/mission4.deps.json
+/Users/joshuagoates/RiderProjects/mission4/bin/Debug/net10.0/mission4.runtimeconfig.json
+/Users/joshuagoates/RiderProjects/mission4/bin/Debug/net10.0/mission4.dll
+/Users/joshuagoates/RiderProjects/mission4/bin/Debug/net10.0/mission4.pdb
+/Users/joshuagoates/RiderProjects/mission4/obj/Debug/net10.0/mission4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshuagoates/RiderProjects/mission4/obj/Debug/net10.0/mission4.AssemblyInfoInputs.cache
+/Users/joshuagoates/RiderProjects/mission4/obj/Debug/net10.0/mission4.AssemblyInfo.cs
+/Users/joshuagoates/RiderProjects/mission4/obj/Debug/net10.0/mission4.csproj.CoreCompileInputs.cache
+/Users/joshuagoates/RiderProjects/mission4/obj/Debug/net10.0/mission4.dll
+/Users/joshuagoates/RiderProjects/mission4/obj/Debug/net10.0/refint/mission4.dll
+/Users/joshuagoates/RiderProjects/mission4/obj/Debug/net10.0/mission4.pdb
+/Users/joshuagoates/RiderProjects/mission4/obj/Debug/net10.0/mission4.genruntimeconfig.cache
+/Users/joshuagoates/RiderProjects/mission4/obj/Debug/net10.0/ref/mission4.dll

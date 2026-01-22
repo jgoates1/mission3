@@ -25,7 +25,6 @@ class Program
                 string name = Console.ReadLine();
                 Console.Write("Enter food category: ");
                 string category = Console.ReadLine();
-                Console.Write("Enter quantity: ");
                 // Safe quantity input
                 int quantity;
                 while (true)
