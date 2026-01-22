@@ -19,7 +19,7 @@ public class FoodItem
 
     public override string ToString()
     {
-        return $"{foodName}, {foodCategory}, {foodQuantity}, Expires: {foodExpiration}";
+        return $"{foodName}, {foodCategory}, {foodQuantity} units, Expires: {foodExpiration}";
     }
     
 }
