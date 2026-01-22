@@ -12,3 +12,4 @@
 /Users/joshuagoates/RiderProjects/mission4/obj/Debug/net10.0/mission4.pdb
 /Users/joshuagoates/RiderProjects/mission4/obj/Debug/net10.0/mission4.genruntimeconfig.cache
 /Users/joshuagoates/RiderProjects/mission4/obj/Debug/net10.0/ref/mission4.dll
+/Users/joshuagoates/RiderProjects/mission4/obj/Debug/net10.0/mission4.sourcelink.json
